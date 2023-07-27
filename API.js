@@ -38,7 +38,7 @@ async function classifyArr(inputArr) {
     headers: {
       accept: "application/json",
       "content-type": "application/json",
-      authorization: "Bearer esu36SzYx4s7fOamQCndqiaob6t9DEdtHuVFxMRC", // API KEY
+      authorization: "Bearer ...", // API KEY
     },
     body: JSON.stringify({
       inputs: inputArr,

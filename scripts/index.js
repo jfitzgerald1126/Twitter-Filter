@@ -62,7 +62,7 @@ function callback(mutations) {
           headers: {
             accept: "application/json",
             "content-type": "application/json",
-            authorization: "Bearer esu36SzYx4s7fOamQCndqiaob6t9DEdtHuVFxMRC",
+            authorization: "Bearer ...",
           },
           body: JSON.stringify({
             inputs: [tweetText],
