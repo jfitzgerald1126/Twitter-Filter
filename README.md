@@ -1,5 +1,9 @@
 # Twitter Filter
 
+<p align="center">
+  <img src="blurred.jpeg" alt="Twitter Filter"/>
+</p>
+
 Twitter Filter Chrome Extension is a project that allows users to filter toxic text content on the Twitter website using the Cohere AI API for text classification. The extension injects a content script into the active tab on Twitter, which monitors tweets and applies a blur effect to those that are classified as toxic.
 
 ## Features
